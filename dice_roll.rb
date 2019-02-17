@@ -9,9 +9,9 @@
 # end
 # roll
 
-def roll(array)
+def roll
   
-  array= [1,2,3,4,5,6]
-  array.shuffle.first 
+  [1,2,3,4,5,6].shuffle.first
+  
   
 end
