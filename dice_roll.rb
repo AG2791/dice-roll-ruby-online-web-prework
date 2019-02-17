@@ -2,9 +2,9 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-def roll
+# def roll
   
-   (rand(1...7))
+#   (rand(1...7))
   
-end
-roll
+# end
+# roll
