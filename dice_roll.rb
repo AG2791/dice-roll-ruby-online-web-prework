@@ -12,6 +12,6 @@
 def roll(array)
   
   array= [1,2,3,4,5,6]
-  array.sh
+  array.shuffle.first 
   
 end
